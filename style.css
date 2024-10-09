@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgba(76, 231, 65, 0.74);
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    color: yellow;
+    border-radius: 50px;
+    text-shadow: 5px 3px black;
+    margin: 30px;
+    font-family: 'Kaushan Script', cursive;
+}
+p{
+    font-size: 20px;
+    font-family: 'Kaushan Script', cursive;  
+}
+.con{
+   width: 70%; margin: auto; text-align: center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+    margin-top: 10%;
+}
+button{
+    width: 90px;
+    height: 38px;
+    border-radius: 14px;
+    background-color: rgb(255, 255, 0);
+    cursor: pointer;
+    font-family: 'Kaushan Script', cursive;
+}
